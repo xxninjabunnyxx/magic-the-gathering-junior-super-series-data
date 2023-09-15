@@ -1,0 +1,16 @@
+---
+object: set
+id: 7708825d-7afc-472a-ac35-348713ffb3e1
+code: psus
+tcgplayer_id: 61
+name: Junior Super Series
+uri: https://api.scryfall.com/sets/7708825d-7afc-472a-ac35-348713ffb3e1
+scryfall_uri: https://scryfall.com/sets/psus
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apsus&unique=prints
+released_at: '1999-12-01'
+set_type: promo
+card_count: 18
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/dci.svg?1694404800
